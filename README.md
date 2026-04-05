@@ -32,32 +32,6 @@ This project is ideal for:
 
 ---
 
-# 📑 Table of Contents
-
-- [🎯 Project Objective](#-project-objective)
-- [🚨 Problem Statement](#-problem-statement)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📂 Dataset Details](#-dataset-details)
-- [🧪 Lab Setup](#-lab-setup)
-- [📥 Step 1: Ingest Cloudflare Logs into Splunk](#-step-1-ingest-cloudflare-logs-into-splunk)
-- [🔎 Step 2: Validate Field Extraction](#-step-2-validate-field-extraction)
-- [📊 Step 3: Create the Dashboard](#-step-3-create-the-dashboard)
-- [🕒 Task 0: Shared Time Range Filter](#-task-0-shared-time-range-filter)
-- [📌 Task 1: Web Activities Panels](#-task-1-web-activities-panels)
-- [📈 Task 2: Web Statistics Panels](#-task-2-web-statistics-panels)
-- [🌍 Task 3: Geo Map Panel](#-task-3-geo-map-panel)
-- [🧠 Dashboard Insights](#-dashboard-insights)
-- [🚨 Security Findings in Dataset](#-security-findings-in-dataset)
-- [✨ Optional Enhancements](#-optional-enhancements)
-- [📷 Screenshots](#-screenshots)
-- [📁 Repository Structure](#-repository-structure)
-- [🎓 Learning Outcomes](#-learning-outcomes)
-- [💼 Use Cases](#-use-cases)
-- [👨‍💻 Author](#-author)
-- [📜 License](#-license)
-
----
-
 # 🎯 Project Objective
 
 Build a **real-time Splunk dashboard** to visualize **Cloudflare web traffic** and **WAF events** for:
