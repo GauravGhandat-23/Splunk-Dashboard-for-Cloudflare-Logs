@@ -151,7 +151,7 @@ Before creating the dashboard, make sure the following prerequisites are complet
 6. Upload:
    ```text
    cloudflare_http_requests_full_.json
-````
+    ````
 
 7. Click **Next**
 8. Set **Source Type** to:
